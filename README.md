@@ -1,4 +1,4 @@
 # planet
 
 This is repo to learn how to use GitHub.
-This is a repo about planets.
+This could be a repo about planets.
